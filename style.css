@@ -1,5 +1,5 @@
 body{
-    background-color: pink; 
+    background-color: lightblue; 
 }
 .container{
     background-color: white;
@@ -22,7 +22,7 @@ body{
         margin: auto;
 }
 .info h1{
-    background-color: purple;
+    background-color: rgb(233, 121, 233);
     color: white;
     border-radius: 30px;
     margin: auto;
@@ -73,5 +73,5 @@ hr{
 .space1{
 
     margin-right: 10px;
-    border-radius: 100px;
+   
 }
